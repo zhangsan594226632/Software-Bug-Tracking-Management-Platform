@@ -1,5 +1,6 @@
 
-[video(video-dPLwhRhu-1783999724250)(type-csdn)(url-https://live.csdn.net/v/embed/535196)(image-https://i-blog.csdnimg.cn/direct/a442eb1e86004d9cbdc8cdaa48e3fb65.png)(title-基于springboot+vue软件缺陷跟踪管理平台)]
+# 资料获取  点击  [**《基于springboot+vue软件缺陷跟踪管理平台》资料**](https://nwqbsc0rm1n.feishu.cn/docx/QnFZdiPRloKSzwxY7hdc6MLUnlb)
+---
 
 ## 一、项目概述
 
